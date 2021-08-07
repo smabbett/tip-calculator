@@ -1,0 +1,43 @@
+.billAmountInput {
+	background-image: url('images/icon-dollar.svg');
+	background-size: 16px 16px;
+	background-repeat: no-repeat;
+	background-position: left 1em center;
+}
+
+.peopleCountInput {
+	background-image: url('images/icon-person.svg');
+	background-size: 16px 16px;
+	background-repeat: no-repeat;
+	background-position: left 1em center;
+}
+
+body {
+	font-family: 'Space Mono';
+	font-size: 24px;
+	background-color: hsl(185, 41%, 84%);
+	color: hsl(184, 14%, 56%);
+}
+.form-label {
+	font-weight: 400;
+}
+.btn {
+	background-color: hsl(183, 100%, 15%);
+	color: hsl(189, 41%, 97%);
+}
+.btn-reset {
+	background-color: hsl(172, 67%, 45%);
+	color: hsl(183, 100%, 15%);
+}
+.right-side {
+	background-color: hsl(183, 100%, 15%);
+}
+.my-title {
+	color: hsl(183, 100%, 15%);
+	letter-spacing: 0.25em;
+	font-weight: 700;
+	font-size: 12px;
+}
+.card {
+	border-radius: 1em;
+}
